@@ -30,4 +30,6 @@ Developer machines are the new attack surface. They hold high-value assets — G
   <img src="images/blind-spots.png" alt="StepSecurity Dev Machine Guard" width="800">
 </p>
 
+
+
 ...
